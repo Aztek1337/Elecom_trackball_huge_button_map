@@ -1,6 +1,8 @@
 # Elecom TrackBall Mouse HUGE Button Map Script
 Please email with any questions to aa@aztek.xyz
 
+This quick script quickly maps the Elecom Trackball HUGE mouse.
+
 The default configuration of this script makes the second right mouse button (index 12) another right click on the Elecom TrackBall HUGE mouse.
 
 The mapping is done using the utility `xinput`
