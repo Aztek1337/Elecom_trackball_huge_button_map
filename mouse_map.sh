@@ -1,10 +1,10 @@
 #!/bin/bash
 
 echo
-echo "======================================================"
+echo "======================================================================"
 echo "Elecom Huge Trackbal Mouse Map Script"
-echo "Script made by aa@aztek.xyz, please email any questions"
-echo "======================================================"
+echo "Script made by aa@aztek.xyz, please email if there is any questions"
+echo "===================================================================="
 echo
 echo "list of mice"
 echo "========================="
