@@ -7,7 +7,7 @@ The default configuration of this script makes the second right mouse button (in
 
 The mapping is done using the utility `xinput`
 
-You can easily modify the mapping by modifying the values on line 14 in `mouse_map.sh`
+You can easily modify the mapping by modifying the values on line 27 in `mouse_map.sh`
 
 ## Running Script
 1. Run BASH script `.mouse_map.sh` from terminal.
