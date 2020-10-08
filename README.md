@@ -10,7 +10,7 @@ The mapping is done using the utility `xinput`
 You can easily modify the mapping by modifying the values on line 27 in `mouse_map.sh`
 
 ## Running Script
-1. Run BASH script `.mouse_map.sh` from terminal.
+1. Run BASH script `mouse_map.sh` from terminal.
 2. The script will show you current devices that identify as mice.
 3. Enter the device number associated with your mouse. (**The Elecom Huge Trackball will always have 12 buttons**)
 4. The script will show you the current mapping of the selected mouse.
