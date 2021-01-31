@@ -1,5 +1,5 @@
 # Elecom TrackBall Mouse HUGE Button Map Script
-Please email with any questions to aa@aztek.xyz
+Please email with any questions to angel.alvarez@aztek.xyz
 
 This quick script quickly maps the Elecom Trackball HUGE mouse.
 
